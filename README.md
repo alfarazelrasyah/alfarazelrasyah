@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm NightHusk!</h1>
+<h1>👋 Hii!!!</h1>
 <h3>About me 👥</h3>
 University student, translator, and a proofreader
 <br>You won't see me online here often, I'm mostly active in Weblate and Crowdin</br>
