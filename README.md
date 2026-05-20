@@ -6,7 +6,3 @@ University student, translator, and a proofreader
 • nighthusk4@gmail.com (email)
 <br>• kecupmanis (discord)</br>
 <h2>I look forward to interact with other people 💙</h2>
-
-<h3>📈 Stats</h3>
-           
-![ALT text](https://github-readme-stats.vercel.app/api?username=nnikyuu&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnikyuu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
